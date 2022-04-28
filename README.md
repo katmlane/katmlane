@@ -26,7 +26,3 @@
 
 **Link to CodeWars:** 
 [![Profile badge](https://www.codewars.com/users/_katmlane_/badges/large)](https://www.codewars.com/users/_katmlane_)
-
-## Leveling System
-
-![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
