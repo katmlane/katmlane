@@ -23,3 +23,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katmlane&show_icons=true&locale=en" alt="katmlane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katmlane&" alt="katmlane" /></p>
+
+**Link to CodeWars:** 
+[![Profile badge](https://www.codewars.com/users/_katmlane_/badges/large)](https://www.codewars.com/users/_katmlane_)
+
+## Leveling System
+
+![CodeWars levels](https://i.imgur.com/Vm77XMv.png)
