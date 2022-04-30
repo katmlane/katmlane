@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katmlane&theme=vue" alt="katmlane" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmlane" alt="katmlane" /></p>
-https://github-readme-streak-stats.herokuapp.com/?user=katmlane}
+https://github-readme-streak-stats.herokuapp.com/?user=katmlane
 
 **Link to CodeWars:** 
 [![Profile badge](https://www.codewars.com/users/_katmlane_/badges/large)](https://www.codewars.com/users/_katmlane_)
