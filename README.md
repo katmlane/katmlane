@@ -11,6 +11,12 @@
 
 - ⚡ Fun fact **I enjoy watercolors, nature, and video games.**
 
+<h3 align="center"> My story </h3>
+
+<p> My passion for software engineering started when I took a computer science class in middle school and built a small application. I decided to pursue the biological sciences, as I could see the direct effect of helping people. I graduated from IUSM with honors and a Clinical Laboratory Science B.S. degree, later obtaining my ASCP and CHT accreditations. On the job, lab equipment would often give errors late at night and problem solving was an active skill I had to develop. Often I'd have to open up the equipment I used, look into the computers data, and past the user interface.  Without the resources, knowledge, or authority to modify them, I was powerless to make the equipment efficient. With my collective experience, laboratory and software engineering, I want to be able to make applications that are accessible and inclusive to all people in healthcare, for both patients and laboratory technicians. </p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_katmlane_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_katmlane_" height="30" width="40" /></a>
