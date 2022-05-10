@@ -13,7 +13,7 @@
 
 <h3 align="center"> My story </h3>
 
-<p> My passion for software engineering started when I took a computer science class in middle school and built a small application. I decided to pursue the biological sciences, as I could see the direct effect of helping people. I graduated from IUSM with honors and a Clinical Laboratory Science B.S. degree. On the job, lab equipment would often give errors and I became efficient in problem-solving. Often I'd have to open up the equipment I used, look into the computers data, and past the user interface. This led to Freelance work creating applications that were accesible to all users. With my collective experience, laboratory and software engineering, I am ready to make applications that are accessible and inclusive to all people in healthcare and education, for both patients and medical professionals. </p>
+<p>  My passion for software engineering started when I took a computer science class in middle school and built a small application. I decided to pursue the biological sciences, as I could see the direct effect of helping people. I graduated from IUSM with honors and a Clinical Laboratory Science B.S. degree. On the job, lab equipment would often give errors and I became efficient in problem-solving. Often I'd have to open up the equipment I used, look into the computer's data, and past the user interface. This led to Freelance work creating applications that were accessible to all users. With my collective experience, in laboratory and software engineering, I am ready to make applications that are accessible and inclusive to all people in healthcare and education, for both patients and medical professionals.  </p>
 
 
 
