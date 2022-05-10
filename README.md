@@ -13,14 +13,14 @@
 
 <h3 align="center"> My story </h3>
 
-<p> My passion for software engineering started when I took a computer science class in middle school and built a small application. I decided to pursue the biological sciences, as I could see the direct effect of helping people. I graduated from IUSM with honors and a Clinical Laboratory Science B.S. degree, later obtaining my ASCP and CHT accreditations. On the job, lab equipment would often give errors late at night and problem solving was an active skill I had to develop. Often I'd have to open up the equipment I used, look into the computers data, and past the user interface.  Without the resources, knowledge, or authority to modify them, I was powerless to make the equipment efficient. With my collective experience, laboratory and software engineering, I want to be able to make applications that are accessible and inclusive to all people in healthcare, for both patients and laboratory technicians. </p>
+<p> My passion for software engineering started when I took a computer science class in middle school and built a small application. I decided to pursue the biological sciences, as I could see the direct effect of helping people. I graduated from IUSM with honors and a Clinical Laboratory Science B.S. degree. On the job, lab equipment would often give errors and I became efficient in problem-solving. Often I'd have to open up the equipment I used, look into the computers data, and past the user interface. This led to Freelance work creating applications that were accesible to all users. With my collective experience, laboratory and software engineering, I am ready to make applications that are accessible and inclusive to all people in healthcare and education, for both patients and medical professionals. </p>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/PNG/Color/Buffer.png?raw=true" alt="_katmlane_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kat-lane-b32b9a154/" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="#" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/katharinalane" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="#" height="30" width="40" /></a>
   <a href="https://twitter.com/_katmlane_" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/SVG/Color/Twitter.svg" alt="#" height="30" width="40" /></a>
  
 </p>
