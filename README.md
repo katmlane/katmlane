@@ -21,7 +21,7 @@
 <p align="left">
 <a href="#" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/PNG/Color/Buffer.png?raw=true" alt="_katmlane_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kat-lane-b32b9a154/" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="#" height="30" width="40" /></a>
-  <a href="https://twitter.com/_katmlane_" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/edit/master/SVG/Color/Twitter.svg" alt="#" height="30" width="40" /></a>
+  <a href="https://twitter.com/_katmlane_" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/SVG/Color/Twitter.svg" alt="#" height="30" width="40" /></a>
  
 </p>
 
