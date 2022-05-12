@@ -3,7 +3,7 @@
 
 - 🌾 I’m currently working on **Mars Rover Educational app**
 
-- 🌱 I’m currently learning **React.js** **R**
+- 🌱 I’m currently learning **React.js**, **R**
 
 - 🍂 All of my projects are available at [https://katmlane.netlify.app/](https://katmlane.netlify.app/)
 
