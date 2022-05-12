@@ -3,7 +3,7 @@
 
 - 🌾 I’m currently working on **Mars Rover Educational app**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** **R**
 
 - 🍂 All of my projects are available at [https://katmlane.netlify.app/](https://katmlane.netlify.app/)
 
@@ -13,7 +13,11 @@
 
 <h3 align="center"> My story </h3>
 
-<p>  My passion for software engineering started when I took a computer science class in middle school and built a small application. I decided to pursue the biological sciences, as I could see the direct effect of helping people. I graduated from IUSM with honors and a Clinical Laboratory Science B.S. degree. On the job, lab equipment would often give errors and I became efficient in problem-solving. Often I'd have to open up the equipment I used, look into the computer's data, and past the user interface. This led to Freelance work creating applications that were accessible to all users. With my collective experience, in laboratory and software engineering, I am ready to make applications that are accessible and inclusive to all people in healthcare and education, for both patients and medical professionals.  </p>
+<p>I graduated from IUSM with a degree in Clinical Laboratory Science(CLS) with honors.
+On the job, the programs I had to use to test and result the patients' lab values made me frustrated with how data is communicated in healthcare. 
+I started digging deeper into the code and started my journey as a Software Engineer
+Soon after I Freelanced, creating applications that were accessible to all users. 
+With my collective experience, as a CLS technician and a Software Engineer, I am ready to contribute to products that are accessible and inclusive to all people in healthcare, both patients and medical professionals.</p>
 
 
 
