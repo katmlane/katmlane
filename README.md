@@ -7,7 +7,7 @@
 
 - 🍂 All of my projects are available at [https://katmlane.netlify.app/](https://katmlane.netlify.app/)
 
-- 🍃 How to reach me **katharina.lane@gmail.com**
+- 🍃 How to reach me **KatMLaneDesigns@gmail.com**
 
 - 🍀 Fun fact **I enjoy watercolors, nature, and video games.**
 
