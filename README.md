@@ -23,7 +23,7 @@ With my collective experience, as a CLS technician and a Software Engineer, I am
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/PNG/Color/Buffer.png?raw=true" alt="_katmlane_" height="30" width="40" /></a>
+<a href="https://katmlanedesigns.start.page" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/PNG/Color/Buffer.png?raw=true" alt="_katmlane_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/katharinalane" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="#" height="30" width="40" /></a>
   <a href="https://twitter.com/_katmlane_" target="blank"><img align="center" src="https://github.com/katmlane/social-icons/blob/master/SVG/Color/Twitter.svg" alt="#" height="30" width="40" /></a>
  
