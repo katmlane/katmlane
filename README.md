@@ -15,8 +15,7 @@
 
 <p>I graduated from IUSM with a degree in Clinical Laboratory Science(CLS) with honors.
 On the job, the programs I had to use to test and result the patients' lab values made me frustrated with how data is communicated in healthcare. 
-I started digging deeper into the code and started my journey as a Software Engineer.
-Soon after I Freelanced, creating applications that were accessible to all users. 
+I started digging deeper into the code and started my journey as a Software Engineer. 
 With my collective experience, as a CLS technician and a Software Engineer, I am ready to contribute to products that are accessible and inclusive to all people in healthcare, both patients and medical professionals.</p>
 
 
