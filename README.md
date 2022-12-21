@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kat M Lane</h1>
 <h3 align="center">Software engineer that contributes accessible and inclusive code to help people traverse technology.</h3>
 
-- 🌾 I’m currently working on **Mars Rover Educational app**
+- 🌾 I’m currently working on **DHS OAST TRAINING**
 
-- 🌱 I’m currently learning **React.js**, **R**
+- 🌱 I’m currently learning **React.js**, **SQL**
 
 - 🍂 All of my projects are available at [https://katmlane.netlify.app/](https://katmlane.netlify.app/)
 
