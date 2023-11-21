@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kat M Lane</h1>
-<h3 align="center">Software engineer that contributes accessible and inclusive code to help people traverse technology.</h3>
+<h3 align="center">Scientist and full-stack software engineer that contributes accessible and inclusive code to make traversing the medical and technological frontier a little less overwhelming.</h3>
 
-- 🌾 I’m currently working on **DHS OAST TRAINING**
+- 🌾 I’m currently working on **DHS OAST TRAINING** 2024
 
-- 🌱 I’m currently learning **React.js**, **SQL**
+- 🌱 I’m currently learning **React.js**, **SQL**, **Obsidian** 
 
-- 🍂 All of my projects are available at [https://katmlane.netlify.app/](https://katmlane.netlify.app/)
+- 🍂 My landing page: [https://katmlane.netlify.app/](https://katmlane.netlify.app/)
 
 - 🍃 How to reach me **KatMLaneDesigns@gmail.com**
 
-- 🍀 Fun fact **I enjoy watercolors, nature, and video games.**
+- 🍀 "Diversity is being invited to the party. Inclusion is not just being asked to dance, but being asked to help choreograph that dance." - Cindu Thomas-George
 
 <h3 align="center"> My story </h3>
 
